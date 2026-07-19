@@ -1,2 +1,2 @@
-# Global-Superstore-Sales-Performance-Dashboard
-A Tableau dashboard visualizing global superstore sales performance and key business metrics.
+# NGO-Donation-Analysis
+A Tableau dashboard analyzing NGO donations, donor trends, fundraising performance, and key donation insights.
